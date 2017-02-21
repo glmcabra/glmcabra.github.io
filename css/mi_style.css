@@ -224,11 +224,13 @@ p {max-width: 80rem;}
 	text-shadow: 0 1.5rem 0.5rem #222222;
 }
 
+/*
 .item#textos:hover {
 	font-size: 1.2rem;
 	color: #000;
 	text-shadow: none;
 }
+*/
 
 .item#titulos, .item#subtitulo {
 	font-family: MontserratAlternates-Regular;
@@ -253,7 +255,7 @@ a.titulo:link, a.titulo:visited, a.titulo:hover, a.titulo:focus, a.titulo:active
 }
 
 .item#textos {
-	font-size: 1rem;
+	font-size: 0.9rem;
 	text-align: left;
 }
 
