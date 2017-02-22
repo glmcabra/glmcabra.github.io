@@ -224,6 +224,22 @@ p {max-width: 80rem;}
 	text-shadow: 0 1.5rem 0.5rem #222222;
 }
 
+.item#images p {
+	font-size: 0.75rem;
+	color: #000;
+	text-shadow: none;
+	margin: 0rem;
+}
+
+.item#images:hover p {
+	font-size: 0.9rem;
+	color: #000;
+	text-shadow: none;
+	margin: 0rem;
+}
+
+
+
 /*
 .item#textos:hover {
 	font-size: 1.2rem;
